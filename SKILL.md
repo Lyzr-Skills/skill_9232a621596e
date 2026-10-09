@@ -1,8 +1,8 @@
 ---
 name: qa-test-sk-075
-description: QA test skill v2 content distinct
+description: QA test skill v3 content distinct latest
 ---
 
 # qa-test-sk-075
 
-QA test skill v2 content distinct
+QA test skill v3 content distinct latest
